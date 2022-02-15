@@ -18,4 +18,4 @@ public class Camcorder extends Item{
 	}
 }
 
-// This is a test message from Peng Rend, HELLO! 12345
+// This is a test message from Peng Rend, HELLO! 123456
